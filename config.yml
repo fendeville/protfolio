@@ -15,13 +15,23 @@ minify:
 
 params:
  # ... other params ...
+  assets:
+    disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+    css:
+      - css/extended/custom.css
+ # ... other params ...
  homeInfoParams:
     enabled: false
   profileMode:
     enabled: true
     title: "Your Name"
     subtitle: "Your Profession or Tagline"
-    imageUrl: "/images/profile.jpg"
+    imageUrl: "images/Profile.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: "Your Name"
