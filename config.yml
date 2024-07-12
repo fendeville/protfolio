@@ -24,8 +24,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
     css:
       - css/extended/custom.css
- # ... other params ...
- homeInfoParams:
+  homeInfoParams:
     enabled: false
   profileMode:
     enabled: true
