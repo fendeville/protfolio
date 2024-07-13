@@ -6,16 +6,17 @@ description: "A brief description of the post."
 imageUrl: "content/posts/img/Profile.jpg"
 draft: false
 
+
 homeInfoParams:
-  enabled: false
+    enabled: false
 profileMode:
-  enabled: true
-  title: "Your Name"
-  subtitle: "Your Profession or Tagline"
-  imageUrl: ".img.Profile.jpg"
-  imageWidth: 120
-  imageHeight: 120
-  imageTitle: "Your Name"
+    enabled: true
+    title: "Your Name"
+    subtitle: "Your Profession or Tagline"
+    imageUrl: "images/Profile.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: "Your Name"
 ---
 ## Watch Dog
  
