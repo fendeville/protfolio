@@ -4,7 +4,7 @@ date: 2023-05-20T12:00:00-00:00
 draft: false
 ---
 
-{{< profilephoto >}}
+{{< profilephoto src=".img/Profile.jpg" >}}
 
 I'm a [your profession] with X years of experience in [your field]...
 
