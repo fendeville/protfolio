@@ -4,9 +4,10 @@ date: 2023-05-20T12:00:00-00:00
 name: "Neville Elonge"
 draft: false
 
+
 homeInfoParams:
     enabled: false
-  profileMode:
+profileMode:
     enabled: true
     title: "Your Name"
     subtitle: "Your Profession or Tagline"

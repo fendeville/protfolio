@@ -24,22 +24,22 @@ params:
     safari_pinned_tab: "<link / abs url>"
     css:
       - css/extended/custom.css
- # ... other params ...
- homeInfoParams:
-    enabled: false
-  profileMode:
-    enabled: true
-    title: "Your Name"
-    subtitle: "Your Profession or Tagline"
-    imageUrl: "images/Profile.jpg"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: "Your Name"
-    buttons:
-      - name: Projects
-        url: "/projects"
-      - name: About
-        url: "/about"
+
+homeInfoParams:
+  enabled: false
+profileMode:
+  enabled: true
+  title: "Your Name"
+  subtitle: "Your Profession or Tagline"
+  imageUrl: "images/Profile.jpg"
+  imageWidth: 120
+  imageHeight: 120
+  imageTitle: "Your Name"
+  buttons:
+    - name: Projects
+      url: "/projects"
+    - name: About
+      url: "/about"
   env: production
   title: Your Name - Portfolio
   description: "Professional portfolio of Your Name"
