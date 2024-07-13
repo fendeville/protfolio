@@ -4,6 +4,11 @@
     <title>iknite Go</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on iknite Go</description>
+    <image>
+      <title>iknite Go</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
     <lastBuildDate>Sat, 20 May 2023 12:00:00 +0000</lastBuildDate>
@@ -13,7 +18,8 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Sat, 20 May 2023 12:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>I&amp;rsquo;m a [your profession] with X years of experience in [your field]&amp;hellip;
+      <description>
+I&amp;rsquo;m a [your profession] with X years of experience in [your field]&amp;hellip;
 I&amp;rsquo;m a [web designer] with X years of experience in [development]. I specialize in [designing].
 Skills Skill 1 Skill 2 Skill 3 Experience Company Name (Year - Present) Position: Your Role
 Brief description of your responsibilities and achievements.
@@ -55,7 +61,7 @@ Email: nevilleelonge@gmail.com LinkedIn: Your LinkedIn Profile GitHub: https://g
       <link>http://localhost:1313/posts/welcome/</link>
       <pubDate>Sat, 20 May 2023 12:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/welcome/</guid>
-      <description>Watch Dog Welcome to my professional portfolio. Here you&amp;rsquo;ll find information about my projects, skills, and experience.</description>
+      <description>A brief description of the post.</description>
     </item>
   </channel>
 </rss>
