@@ -31,7 +31,7 @@ profileMode:
   enabled: true
   title: "Your Name"
   subtitle: "Your Profession or Tagline"
-  imageUrl: "images/Profile.jpg"
+  imageUrl: "/images/Profile.jpg"
   imageWidth: 120
   imageHeight: 120
   imageTitle: "Your Name"

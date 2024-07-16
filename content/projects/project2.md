@@ -1,5 +1,5 @@
 ---
-title: "Projec2"
+title: "Project2"
 date: 2023-05-20T12:00:00-00:00
 draft: false
 ---

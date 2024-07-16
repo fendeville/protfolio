@@ -34,20 +34,20 @@ Education Degree, Major, University, Year </description>
       <pubDate>Sat, 20 May 2023 12:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
       <description>You can reach me at:
-Email: nevilleelonge@gmail.com LinkedIn: Your LinkedIn Profile GitHub: https://github.com/fendeville </description>
+Email: nevilleelonge@gmail.com LinkedIn: https://www.linkedin.com/in/neville-elonge-172a03318/ GitHub: https://github.com/fendeville </description>
     </item>
     <item>
-      <title>Projec2</title>
-      <link>http://localhost:1313/projects/project2/</link>
-      <pubDate>Sat, 20 May 2023 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project2/</guid>
-      <description>This is a description of Project 1. You can add more details, images, and links here.</description>
-    </item>
-    <item>
-      <title>Project 1</title>
+      <title>Project1</title>
       <link>http://localhost:1313/projects/project1/</link>
       <pubDate>Sat, 20 May 2023 12:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/project1/</guid>
+      <description>This is a description of Project 1. You can add more details, images, and links here.</description>
+    </item>
+    <item>
+      <title>Project2</title>
+      <link>http://localhost:1313/projects/project2/</link>
+      <pubDate>Sat, 20 May 2023 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project2/</guid>
       <description>This is a description of Project 1. You can add more details, images, and links here.</description>
     </item>
     <item>

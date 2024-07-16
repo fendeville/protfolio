@@ -7,5 +7,5 @@ draft: false
 You can reach me at:
 
 - Email: nevilleelonge@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
+- LinkedIn: [https://www.linkedin.com/in/neville-elonge-172a03318/](https://www.linkedin.com/in/neville-elonge-172a03318/)
 - GitHub: [https://github.com/fendeville](https://github.com/fendeville)

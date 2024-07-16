@@ -9,17 +9,17 @@
     <lastBuildDate>Sat, 20 May 2023 12:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Projec2</title>
-      <link>http://localhost:1313/projects/project2/</link>
-      <pubDate>Sat, 20 May 2023 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project2/</guid>
-      <description>This is a description of Project 1. You can add more details, images, and links here.</description>
-    </item>
-    <item>
-      <title>Project 1</title>
+      <title>Project1</title>
       <link>http://localhost:1313/projects/project1/</link>
       <pubDate>Sat, 20 May 2023 12:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/project1/</guid>
+      <description>This is a description of Project 1. You can add more details, images, and links here.</description>
+    </item>
+    <item>
+      <title>Project2</title>
+      <link>http://localhost:1313/projects/project2/</link>
+      <pubDate>Sat, 20 May 2023 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project2/</guid>
       <description>This is a description of Project 1. You can add more details, images, and links here.</description>
     </item>
   </channel>
