@@ -2,7 +2,6 @@
 title: "Welcome to My Portfolio"
 date: 2023-05-20T12:00:00-00:00
 author: "Neville Elonge"
-author: "Neville Elonge"
 description: "A brief description of the post."
 imageUrl: "content/posts/img/Profile.jpg"
 draft: false
